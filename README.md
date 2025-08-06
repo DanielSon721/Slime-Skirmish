@@ -9,10 +9,12 @@
 You are dropped in a clearing in a forest, armed with a gun, and **slime** monsters emerge from the forest and try to kill you.
 
 **Objective**: Survive for as long as possible
+
 **Controls**:
   - WASD/Arrow keys - Move in 8 directions
   - Mouse - Aim
   - Click - Shoot
+
 **4 difficulty levels**:
   - Easy  
   - Medium  
