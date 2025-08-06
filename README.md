@@ -54,5 +54,7 @@ The player also has the option to ramp up the difficulty, although it has no eff
 
 ## 🎥 Development Footage
 
-- [Development Clip 1](https://drive.google.com/file/d/1VOIjP7Enupc9L0ot-dylODzkej9P6EPa/view?usp=sharing)  
-- [Development Clip 2](https://drive.google.com/file/d/17tNdhAOrdF1z40ic-BLWUO0dMCmnGly7/view?usp=sharing)
+Here are some random clips I took of the development process:
+
+- [Developing](https://drive.google.com/file/d/1VOIjP7Enupc9L0ot-dylODzkej9P6EPa/view?usp=sharing)  
+- [Playtesting](https://drive.google.com/file/d/17tNdhAOrdF1z40ic-BLWUO0dMCmnGly7/view?usp=sharing)
