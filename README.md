@@ -6,12 +6,14 @@
 
 ## 🎮 Gameplay
 
-The premise of the game is you are a character in a clearing in a forest with a gun, and **slime** monsters spawn from the forest and try to kill you.
+You are dropped in a clearing in a forest, armed with a gun, and **slime** monsters emerge from the forest and try to kill you.
 
-- If they touch you, you die.  
-- You can point and click with your mouse to aim and shoot your gun to kill the slimes.  
-- A timer at the top of the screen tracks how long you've lived for.  
-- There are **4 difficulty levels**:
+**Objective**: Survive for as long as possible
+**Controls**:
+  - WASD/Arrow keys - Move in 8 directions
+  - Mouse - Aim
+  - Click - Shoot
+**4 difficulty levels**:
   - Easy  
   - Medium  
   - Hard  
