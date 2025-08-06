@@ -51,3 +51,8 @@ The slime monsters are programmed with **A.I. pathing** to naviate around obstac
 Lastly, I implemented a simple **stopwatch** at the top of the screen, tracking how long the player has lived for.
 
 The player also has the option to ramp up the difficulty, although it has no effect on the point system (survival time) of the game. It is merely for the purpose of making the game more challenging for fun.
+
+## 🎥 Development Footage
+
+- [Development Clip 1](https://drive.google.com/file/d/1VOIjP7Enupc9L0ot-dylODzkej9P6EPa/view?usp=sharing)  
+- [Development Clip 2](https://drive.google.com/file/d/17tNdhAOrdF1z40ic-BLWUO0dMCmnGly7/view?usp=sharing)
