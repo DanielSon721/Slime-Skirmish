@@ -65,6 +65,8 @@ Here are some random clips I took of the development process:
 
 ## 📩 Download Link
 
+Download at your own risk.
+
 Windows download (sorry mac):
 
 [Download](https://drive.google.com/file/d/1VOIjP7Enupc9L0ot-dylODzkej9P6EPa/view?usp=sharing) 
