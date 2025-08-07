@@ -47,7 +47,7 @@ Next, I designed **3 species** of slime monster taken from the Unity Asset Store
 
 I set approximately **40 spawn points** hidden within the forest that spawn slimes randomly, at an average rate determined by the difficulty level.
 
-The slime monsters are programmed with **A.I. pathing** to naviate around obstacles (trees, water, etc.).
+The slime monsters are programmed with **A.I. pathing** to navigate around obstacles (trees, water, etc.).
 
 ### Point System
 
