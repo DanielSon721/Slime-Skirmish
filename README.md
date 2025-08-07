@@ -27,13 +27,16 @@ You are dropped in a clearing in a forest, armed with a gun, and **slime** monst
 
 ### Map
 
-To begin, I designed a pixelated forest map using assets from the Unity Asset Store.  
+To begin, I designed a pixelated forest map using assets from the Unity Asset Store.
+
 The forest clearing is populated with **stones**, **rivers**, and **shrubbery**.
 
 ### Character
 
-Next, I designed the player's controllable character.  
-Again, I used asset packs from the Unity Asset Store to bring a cute, white character to life with idle and running animations.  
+Next, I designed the player's controllable character.
+
+Again, I used asset packs from the Unity Asset Store to bring a cute, white character to life with idle and running animations.
+
 The player can move **up, down, left, right**, and the diagonals between using **WASD** or the **arrow keys**.
 
 Then I armed the character with a **gun** that shoots a bullet in the direction of the mouse on click.
