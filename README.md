@@ -1,10 +1,10 @@
-# 🧪 Slime Skirmish
+# Slime Skirmish
 
 *A 2-dimensional video game I developed on the Unity game engine using C#*
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 You are dropped in a clearing in a forest, armed with a gun, and **slime** monsters emerge from the forest and try to kill you.
 
@@ -23,14 +23,14 @@ You are dropped in a clearing in a forest, armed with a gun, and **slime** monst
 
 ---
 
-## 🛠️ Development
+## Development
 
-### 🌲 Map
+### Map
 
 To begin, I designed a pixelated forest map using assets from the Unity Asset Store.  
 The forest clearing is populated with **stones**, **rivers**, and **shrubbery**.
 
-### 👤 Character
+### Character
 
 Next, I designed the player's controllable character.  
 Again, I used asset packs from the Unity Asset Store to bring a cute, white character to life with idle and running animations.  
@@ -38,7 +38,7 @@ The player can move **up, down, left, right**, and the diagonals between using *
 
 Then I armed the character with a **gun** that shoots a bullet in the direction of the mouse on click.
 
-### 🧟 Slime Monsters
+### Slime Monsters
 
 Next, I designed **3 species** of slime monster taken from the Unity Asset Store, each with different **size** and **speed**.
 
@@ -46,7 +46,7 @@ I set approximately **40 spawn points** hidden within the forest that spawn slim
 
 The slime monsters are programmed with **A.I. pathing** to naviate around obstacles (trees, water, etc.).
 
-### 🕐 Point System
+### Point System
 
 Lastly, I implemented a simple **stopwatch** at the top of the screen, tracking how long the player has lived for.
 
@@ -54,7 +54,7 @@ The player also has the option to ramp up the difficulty, although it has no eff
 
 ---
 
-## 🎥 Development Footage
+## Development Footage
 
 Here are some random clips I took of the development process:
 
@@ -63,7 +63,7 @@ Here are some random clips I took of the development process:
 
 ---
 
-## 📩 Download Link
+## Download Link
 
 Download at your own risk.
 
